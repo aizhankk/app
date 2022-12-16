@@ -1,0 +1,104 @@
+.header{
+  display: flex;
+  background-color: rgb(242, 232, 220);
+  height: 300px;
+ 
+}
+
+.game{
+  background-color:  rgb(211, 39, 39);
+  color: white;
+  margin-left: 100px;
+  padding: 0.5%;
+  text-align: center;
+  border-radius: 15px;
+  height: 50px;
+}
+
+.info{
+  display: flex;
+  margin-left: 40%;
+  background-color: white;
+  border-radius: 10px;
+  align-items: center;
+  text-align: center;
+  width: 500px;
+  height: 50px;
+}
+.info div{
+  padding: 25px;
+}
+
+
+.game p{
+  font-size: 150%;
+  font-family:'Comic Sans MS', cursive;
+}
+
+
+.kipon{
+  position: absolute;
+  margin-top: -170px;
+  background-color: white;
+  width: 700px;
+  padding: 3%;
+  margin-left: 100px;
+  border-radius: 20px;
+}
+
+#casual{
+  display: flex;
+}
+
+#casual2{
+  padding: 3%;
+}
+.img1{
+  border-radius: 20px;
+  height: 80px;
+}
+
+.info2{
+  margin-top: 500px;
+  margin-left: 100px;
+  
+}
+
+
+.info2 img{
+  height: 350px;
+  border-radius: 20px;
+}
+
+#photo{
+  display: flex;
+  
+}
+
+#photo img{
+  margin: 22px;
+}
+
+#screen{
+  font-size: 30px;
+  margin-left: 30px;
+  font-weight: bold;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.kkk{
+  display: flex;
+  margin:  100px;
+  
+}
+
+.kkk div{
+  border-color: rgb(44, 42, 41);
+  border: 20px;
+  height: 300px;
+  width: 500px;
+  background-color: blueviolet;
+  text-align: center;
+  align-items: center;
+}
+
